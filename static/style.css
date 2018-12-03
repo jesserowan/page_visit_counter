@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+.container2 {
+    display: flex;
+    justify-content: space-evenly;
+}
+a {
+    background-color: rgb(53, 53, 53);
+    text-decoration: none;
+    color: white;
+    padding: 50px;
+    border-radius: 5px;
+}
